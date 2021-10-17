@@ -1,0 +1,47 @@
+body{
+	background-color:#4e9f00;
+}
+#buttons {
+    background-color: aquamarine;
+    width: fit-content;
+    border: solid 1px black;
+}
+
+#buttons img {
+    margin: auto;
+    width: 80px;
+}
+
+#puzzle {
+    border: solid 1px black;
+    position: absolute;
+    left: 200px;
+    top: 350px;
+}
+#puzzle img {
+    width: 100px;
+    padding: -10px;
+}
+
+#risunok {
+    position: absolute;
+    left: 900px;
+    top: 150px;
+}
+
+#choice {
+    background-color: green;
+    border: solid 1px black;
+    width: fit-content;
+    position: absolute;
+    top: 150px;
+	margin:40px;
+
+}
+
+#choice img {
+    width: 120px;
+}
+
+
+
